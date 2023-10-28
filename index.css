@@ -1,0 +1,28 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+.header {
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color: black;
+}
+h1{
+    color: blue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+h1:hover{
+    color:rgba(98, 100, 212, 0.486)
+}
+
+#about{
+    background-color: rgba(12, 12, 92, 0.842);
+}
+#contact{
+    background-color: rgba(95, 95, 201, 0.726);
+}
